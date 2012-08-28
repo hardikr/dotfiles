@@ -1,0 +1,2 @@
+# RVM - http://stackoverflow.com/a/8510918/441667
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
